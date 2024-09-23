@@ -83,8 +83,6 @@ The project is based on multiple datasets provided by Olist, including customer,
 - **Top Selling Products**: Electronics and home appliances dominate the top-selling product categories, while niche products like books and toys had fewer sales.
 - **Cancellation Trends**: The highest cancellation rates were observed on Mondays, likely due to changes in weekend orders.
 
-Here’s a closing note you can add at the end of the README:
-
 ---
 
 ## **Final Note**
