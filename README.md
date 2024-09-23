@@ -69,10 +69,10 @@ The project is based on multiple datasets provided by Olist, including customer,
 10. **Cancellation Rate by Day of Week**: Analyze the cancellation rate of orders by day of the week.
 
 ## **Technologies Used**
-- **Python**: For data preprocessing, statistical analysis, and visualization.
 - **MySQL**: To store and query the datasets efficiently.
 - **Excel**: For initial data cleaning and simple analysis.
 - **Power BI**: For creating interactive dashboards to visualize KPIs and insights.
+- **Tableau**: Used to generate advanced data visualizations to highlight trends and relationships in the data.
 
 ## **Insights and Results**
 - **Weekday vs Weekend Payments**: Found that most orders and payments happen during weekdays, with a slight increase in payment values over weekends.
